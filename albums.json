@@ -1,0 +1,26 @@
+[
+  {
+    "Album Title": "Lover",
+    "Artist Name": "Taylor Swift",
+    "Songs": "Paper Rings, Lover, ME!, Daylight, Afterglow",
+    "Release Year": 2019
+  },
+  {
+    "Album Title": "Future Nostalgia",
+    "Artist Name": "Dua Lipa",
+    "Songs": "Leviating, Love Again, Don't Start Now, Cool, Future Nostalgia",
+    "Release Year": 2020
+  },
+  {
+    "Album Title": "Thriller",
+    "Artist Name": "Michael Jackson",
+    "Songs": "Beat it, The Girl Is Mine, Thriller, Human nature, Baby Be Mine",
+    "Release Year": 1982
+  },
+  {
+    "Album Title": "After Hours",
+    "Artist Name": "The Weeknd",
+    "Songs": "Save Your Tears, After Hours, Blinding Lights, Scared to Live, Heartless",
+    "Release Year": 2020
+  }
+]
